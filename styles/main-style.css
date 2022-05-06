@@ -53,3 +53,23 @@ header{
 .nav-links li a:hover {
   color: #0192a5;  
 }
+
+/* MAIN STYLE */
+
+.container{
+  display: flex;
+  padding: 30px 10%;
+}
+
+.firstPresentation{
+  width: 50%;
+}
+
+.photo{
+  text-align: center;
+  justify-content: center;
+}
+
+p .text-secion{
+  font-family: "Montserrat", sans-serif;
+}
